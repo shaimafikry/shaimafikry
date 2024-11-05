@@ -15,7 +15,7 @@ I'm a recent graduate from the **ALX Software Engineering Program**, where I emb
 I have hands-on experience with various technologies, frameworks, and tools, including:
 
 - **Languages:** JavaScript, Python
-- **Frontend:** React
+- **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
 
